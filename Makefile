@@ -1,4 +1,4 @@
 all: compile
 
 compile:
-	@./rebar compile
+	@rebar compile
